@@ -6,5 +6,5 @@ import react from "@vitejs/plugin-react";
 // then base should be "/skincare-dashboard/"
 export default defineConfig({
   plugins: [react()],
-  base: "/skincare-dashboard/",
+  base: "/skincare/",
 });
